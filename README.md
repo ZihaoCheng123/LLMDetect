@@ -1,3 +1,5 @@
+You can update LLMDetect benchmark and trained model into huggingface, and provide the download & usage guidelines here.
+
 - LLMDetect
   - HNDC
     - train.json
