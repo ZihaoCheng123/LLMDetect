@@ -4,6 +4,8 @@ This repository contains the data of the paper Beyond Binary: Towards Fine-Grain
 
 Cheng, Z., Zhou, L., Jiang, F., Wang, B., & Li, H. (2024). Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement. [Link](https://arxiv.org/abs/2410.14259)
 
+You can also view the dataset on [Hugging Face](https://huggingface.co/datasets/czhcuhk/LLMDetect).
+
 This is a comprehensive benchmark for LLM-Generated Text Detection. 
 
 - LLMDetect
