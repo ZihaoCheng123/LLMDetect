@@ -36,8 +36,6 @@ If the label "continue" equals 1, indicating it is LLM-Extender.
 
 ## Citation
 
-如果您在研究中使用了此代码，请引用我们的论文：
-
 ```bibtex
 @article{cheng2024beyond,
   title={Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement},
