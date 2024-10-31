@@ -11,7 +11,7 @@ This benchmark originates from news articles in New York Times and Guardian publ
 - LLMDetect
   - HNDC
     - train.json
-    - dev.json
+    - val.json
     - test.json
   - DetectEval
     - Cross-context
