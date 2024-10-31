@@ -1,6 +1,6 @@
 This is a comprehensive benchmark for LLM-assisted Text Detection.
 
-The Source of this benchmark is news from New York Times and the Guardian before 2019.
+This benchmark originates from news articles in New York Times and Guardian published before 2019.
 
 - LLMDetect
   - HNDC
