@@ -6,8 +6,6 @@ Cheng, Z., Zhou, L., Jiang, F., Wang, B., & Li, H. (2024). Beyond Binary: Toward
 
 This is a comprehensive benchmark for LLM-assisted Text Detection. 
 
-This benchmark originates from news articles in New York Times and Guardian published before 2019.
-
 - LLMDetect
   - HNDC
     - train.json
@@ -24,7 +22,7 @@ This benchmark originates from news articles in New York Times and Guardian publ
       - Variable-Length-Extension
       - Multi-Staged-Polish
 
-label "PR" in the is LLM Involvement Ratio in our task, and we use "human","draft","revise","continue" to label the text source.
+label "PR" is LLM Involvement Ratio in our task, and we use "human","draft","revise","continue" to label the text source.
 
 If the label "human" equals 1, indicating it is Human-Author.
 
