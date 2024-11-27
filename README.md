@@ -6,6 +6,8 @@ Cheng, Z., Zhou, L., Jiang, F., Wang, B., & Li, H. (2024). Beyond Binary: Toward
 
 You can also view the dataset on Hugging Face. [Link](https://huggingface.co/datasets/czhcuhk/LLMDetect)
 
+You can download the PLM-based models on Hugging Face. [Link](https://huggingface.co/czhcuhk/LLMDect)
+
 This is a comprehensive benchmark for LLM-Generated Text Detection. 
 
 - LLMDetect
