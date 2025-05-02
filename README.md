@@ -39,9 +39,10 @@ If the label "continue" equals 1, indicating it is LLM-Extender.
 ## Citation
 
 ```bibtex
-@article{cheng2024beyond,
-  title={Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement},
+@inproceedings{cheng2025beyond,
+  title={Beyond binary: Towards fine-grained llm-generated text detection via role recognition and involvement measurement},
   author={Cheng, Zihao and Zhou, Li and Jiang, Feng and Wang, Benyou and Li, Haizhou},
-  journal={arXiv preprint arXiv:2410.14259},
-  year={2024}
+  booktitle={Proceedings of the ACM on Web Conference 2025},
+  pages={2677--2688},
+  year={2025}
 }
